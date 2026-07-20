@@ -20,7 +20,7 @@
 - **區塊鏈網路建構**
   - 獲國科會補助，從無到有建構 Hyperledger Fabric 網路，並於日盛黑客松競賽奪得**第二名**。
 - **自動化實作**
-- 獨立開發基於 Python (Selenium, BeautifulSoup) 與 LINE Bot API 的自動化票務監控推播系統。
+  - 獨立開發基於 Python (Selenium, BeautifulSoup) 與 LINE Bot API 的自動化票務監控推播系統。
 
 #### 📫 如何聯繫我 (Contact Me)
 - **LinkedIn:** [chiachingchu](https://www.linkedin.com/in/chiachingchu/)
