@@ -1,9 +1,9 @@
 ### Hi there, I'm 家慶 (Chia-Ching) 👋
 
-我是具備 **AI 實作基礎與企業級系統重構經驗** 的後端軟體工程師，擁有 3 年以上核心系統開發與維運經驗。擅長處理複雜商業邏輯對照、資料庫效能優化與跨系統資料整合，並習慣以務實的自學能力將技術落地，解決實際業務痛點。
+我是具備 **AI 實作基礎與企業級系統重構經驗** 的後端軟體工程師，擁有 3 年以上核心系統開發與維運經驗。具備處理複雜商業邏輯、資料庫效能調校與跨系統整合的實務經驗。能透過自學掌握技術，並將其應用於解決實際業務問題。
 
 #### 🚀 技術棧 (Tech Stack)
-- **後端開發:** C#, .NET Framework, ASP.NET Core, Windows Form, VB6
+- **後端開發:** C#, .NET Framework, Windows Form, VB6
 - **資料庫:** MS SQL Server (具備效能調校與 Lock 問題解決經驗)
 - **AI 與資料科學:** Python, YOLOv5, 影像辨識模型訓練
 - **自動化與區塊鏈:** Selenium, BeautifulSoup, Line Messaging API, Hyperledger Fabric
