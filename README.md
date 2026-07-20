@@ -15,11 +15,12 @@
 - **核心資料庫遷移與跨機構整合**
   - 主導全機構 ICD-10 疾病代碼大版本更新，規劃嚴謹邏輯檢核，完成 **10 萬筆**歷史資料庫無痛清洗與轉接。
   - 設計跨層級機構 B2B 資料整合平台，建立批次 Excel 資料交換、解析與標準化流程，確保多方系統資料一致性。
-- **AI 模型落地與自動化實作**
+- **AI 模型落地**
   - 從零建構「動態影像車輛與行人辨識系統」，涵蓋資料蒐集標註、YOLOv5 模型訓練至 GUI 介面開發。
-  - 獨立開發基於 Python (Selenium, BeautifulSoup) 與 LINE Bot API 的自動化票務監控推播系統。
 - **區塊鏈網路建構**
   - 獲國科會補助，從無到有建構 Hyperledger Fabric 網路，並於日盛黑客松競賽奪得**第二名**。
+- **自動化實作**
+- 獨立開發基於 Python (Selenium, BeautifulSoup) 與 LINE Bot API 的自動化票務監控推播系統。
 
 #### 📫 如何聯繫我 (Contact Me)
 - **LinkedIn:** [chiachingchu](https://www.linkedin.com/in/chiachingchu/)
